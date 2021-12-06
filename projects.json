@@ -1,0 +1,18 @@
+{
+   "myProjects":[
+      {
+         "title":"Software Design Patterns",
+         "descripton":["point1", "point2", "point3"],
+         "img":"link1"
+      },
+      {
+        "title":"Advance Programming Techniques",
+        "descripton":["point11", "point12", "point13"],
+        "video":"link2"
+     },{
+        "title":"Python",
+        "descripton":["point21", "point22", "point23"],
+        "video":"link3"
+     }
+   ]
+}
