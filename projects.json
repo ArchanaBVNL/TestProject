@@ -1,23 +1,29 @@
 {
 	"myProjects": [{
 		"project": {
-			"title": "Software Design Patterns",
-			"description": ["point1", "point2", "point3"],
-			"video": "link1",
+			"title": "Cabin Reservation System",
+			"course": "Software Design and Patterns"
+			"description": "Cabin Reservation System is a software designed to be used by a customer to find and reserve a vacation cabin at resort. The software validates a reservation request and confirms a valid reservation. The customer is then sent back a corresponding reservation receipt. The system also includes broadcasting of promotional or generic messages to all the resort customers. The design patterns implemented are – Mediator Pattern, Decorator Pattern, and Bridge Pattern."
+			"Technologies": ["Java", "JUnit", "Git"]
+			"image": "./images/cabin.svg",
 			"show": false
 		}
 	}, {
 		"project": {
-			"title": "Advance Programming Techniques",
-			"description": ["point11", "point12", "point13"],
-			"video": "link2",
+			"title": "Process Scheduler Simulation",
+			"course": "Data Structures and Algorithms"
+			"description": "Process Scheduler Simulation is a software that simulates the functionality of a process manager that selects a process from a process queue depending on a process priority and wait time. Process scheduling is important for multiprogramming operating systems. The data structures implemented are – ArrayList, PriortiyQueue, and Array."
+			"Technologies": ["Java"]
+			"image": "./images/process.svg",
 			"show": false
 		}
 	}, {
 		"project": {
-			"title": "Python",
-			"description": ["point21", "point22", "point23"],
-			"video": "link3",
+			"title": "Sudoku Assistant",
+			"course": "Information Structures with Python"
+			"description": "Sudoku Assistant is built to help solve any valid Sudoku puzzle entered as an input. A game board input is first validated and then the software finds a solution to display the final solution to the user. The GUI was built using pygame, a Pythong game module."
+			"Technologies": ["Python"]
+			"image": "./images/sudoku.svg",
 			"show": false
 		}
 	}]
