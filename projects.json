@@ -4,7 +4,7 @@
 			"title": "Cabin Reservation System",
 			"course": "Software Design and Patterns",
 			"description": "Cabin Reservation System is a software designed to be used by a customer to find and reserve a vacation cabin at resort. The software validates a reservation request and confirms a valid reservation. The customer is then sent back a corresponding reservation receipt. The system also includes broadcasting of promotional or generic messages to all the resort customers. The design patterns implemented are – Mediator Pattern, Decorator Pattern, and Bridge Pattern.",
-			"technologies": ["Java", "JUnit", "Git", "VSCode"],
+			"technologies": ["Java", "JUnit", "Git", "IntelliJ IDEA"],
 			"image": "./images/cabin.svg",
 			"show": false
 		}
